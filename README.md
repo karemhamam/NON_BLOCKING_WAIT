@@ -89,3 +89,12 @@ To test the functionality of the program, you can use the following methods:
    ```bash
    ps aux | grep non_blocking_wait
    ```
+   ----
+   ## Author
+
+👨‍💻 **Mohamed Hamam**
+
+This project is part of my journey into system programming, real-time signaling, and embedded systems. Feel free to contribute or provide feedback! 😊
+
+
+
