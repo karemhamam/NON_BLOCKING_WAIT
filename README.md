@@ -89,11 +89,3 @@ To test the functionality of the program, you can use the following methods:
    ```bash
    ps aux | grep non_blocking_wait
    ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the need to manage child processes without blocking the parent in Unix-like systems.
